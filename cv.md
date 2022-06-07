@@ -1,9 +1,9 @@
 ### rsschool-cv
 ## Rinat Kopbaev
 ## My Contact Info 
-*1 Phone: +77765222227
-*2 E-mail: rinat.kopbaev@mail.ru
-*3 GitHub: Aburinat1
+1. Phone: +77765222227
+2. E-mail: rinat.kopbaev@mail.ru
+3. GitHub: Aburinat1
 ## About Me
 *Now I am actively studying in the areas of front-end development in order to change jobs and improve my life*
 ## Skills
